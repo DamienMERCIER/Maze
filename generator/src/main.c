@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2020
-** mai.c
+** main.c
 ** File description:
 ** main.c
 */
